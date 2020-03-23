@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MCX>
+	<ProjectLocation>
+		D:\Project\project8_V13\IM\HMI\{11866113-231797}\D\HMI_IQUV
+	</ProjectLocation>
+	<ProjectIsConsistent>
+		1
+	</ProjectIsConsistent>
+	<SharedMcxLocation>
+		\\NONAME\WinCCProjects\project8_V13_MainComputer.MCX
+	</SharedMcxLocation>
+	<ProjectLocationUNC>
+		\\NONAME\WinCC_Project_HMI_IQUV_9
+	</ProjectLocationUNC>
+	<RDP>
+	<LastModifiedDate>
+		2020-03-03 15:21:11
+	</LastModifiedDate>
+	</RDP>
+</MCX>

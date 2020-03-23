@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="HMI tags Log_6.xml" projectName="D:\PROJECTS\Crynka\Проекты с компа\HMI tags.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Information" dateTime="10:37:48 AM">
+    <Message>Import finished: 535 tag(s) imported.</Message>
+  </LogEntry>
+</LogFile>

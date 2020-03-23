@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="1 Log_1.xml" projectName="D:\PROJECTS\Crynka\16_01\1.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Error" dateTime="12:37:25 PM">
+    <Message>Error found while loading file D:\PROJECTS\Crynka\16_01\1.xlsx, the file may be in use or read-only.</Message>
+  </LogEntry>
+</LogFile>
